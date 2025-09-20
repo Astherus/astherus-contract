@@ -1,2 +1,1 @@
 # astherus-contract
-astherus-contract
